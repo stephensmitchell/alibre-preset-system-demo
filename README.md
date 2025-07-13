@@ -1,4 +1,4 @@
-Alibre Control Preset System Demo
+Alibre Preset System Demo
 
 ![AlibreControlPresetSystemDemo](https://github.com/Testbed-for-Alibre-Design/AlibreControlPresetSystemDemo/assets/5302428/396a4c06-2b3f-45dc-be94-90b2db6eaa93)
 
